@@ -14,14 +14,14 @@
 
 下記の画面でインストールボタンを押してください。<br>
 chromeウェブストア - TexTra<br>
-https://chromewebstore.google.com/detail/textra/mhnnkoiolmjhfkcjppolhbmobkbjfbdi?authuser=4&hl=ja<br>
+https://chromewebstore.google.com/detail/textra/mhnnkoiolmjhfkcjppolhbmobkbjfbdi?hl=ja<br>
 
 ヘルプ<br>
 https://nict-dev.github.io/TexTra-Chrome/ja/help_main.html<br>
 
 ................................................................................................................................................<br>On the following page, please click the Install button.<br>
 Chrome Web Store – TexTra<br>
-https://chromewebstore.google.com/detail/textra/mhnnkoiolmjhfkcjppolhbmobkbjfbdi?authuser=4&hl=en<br>
+https://chromewebstore.google.com/detail/textra/mhnnkoiolmjhfkcjppolhbmobkbjfbdi?hl=en<br>
 
 Help<br>
 https://nict-dev.github.io/TexTra-Chrome/en/help_main.html<br>
