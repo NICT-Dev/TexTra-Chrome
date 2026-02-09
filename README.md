@@ -49,11 +49,15 @@ X(Twitter)<br>
 https://twitter.com/minhonMT
 
 ------
-
 ## 💻 実行環境 System Requirements
 
 Webブラウザ： Chrome、Edge<br>
 
 Web browser: Chrome, Edge<br>
+
+------
+みんなの自動翻訳 - TexTra Chrome (古い内容が含まれています。)<br>
+Min'na no Jido Hon'yaku - TexTra Chrome (The information on the linked page is outdated.)<br>
+https://mt-auto-minhon-mlt.ucri.jgn-x.jp/content/tool/chrome/<br>
 
 <br><br><br><br><br><br><br><br>
