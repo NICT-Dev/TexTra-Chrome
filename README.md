@@ -60,4 +60,17 @@ Web browser: Chrome, Edge<br>
 Min'na no Jido Hon'yaku - TexTra Chrome (The information on the linked page is outdated.)<br>
 https://mt-auto-minhon-mlt.ucri.jgn-x.jp/content/tool/chrome/<br>
 
+------
+## 🦤TexTra Screen Reader for Chrome<br>
+
+**TexTra Screen Reader for Chrome**は<br>
+ブラウザアプリChromeの拡張「TexTra Chrome」に、<br>
+OCRでWindows上のテキストを取得する機能を追加するアプリケーションです。<br>
+https://github.com/NICT-Dev/TexTra-Screen-Reader-for-Chrome<br>
+
+**TexTra Screen Reader for Chrome** is an application<br>
+that works with the Chrome extension "TexTra Chrome"<br>
+and adds OCR-based text capture feature for Windows.<br>
+https://github.com/NICT-Dev/TexTra-Screen-Reader-for-Chrome<br>
+
 <br><br><br><br><br><br><br><br>
