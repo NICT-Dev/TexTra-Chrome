@@ -63,6 +63,12 @@ https://mt-auto-minhon-mlt.ucri.jgn-x.jp/content/tool/chrome/<br>
 ------
 ## 🦤TexTra Screen Reader for Chrome<br>
 
+別アプリ「**TexTra Screen Reader for Chrome**」によって、<br>
+OCR機能を実行できます。<br>
+
+By using the separate application “**TexTra Screen Reader for Chrome**”,<br>
+you can run the OCR feature.<br>
+
 **TexTra Screen Reader for Chrome**は<br>
 ブラウザアプリChromeの拡張「TexTra Chrome」に、<br>
 OCRでWindows上のテキストを取得する機能を追加するアプリケーションです。<br>
@@ -72,5 +78,11 @@ https://github.com/NICT-Dev/TexTra-Screen-Reader-for-Chrome<br>
 that works with the Chrome extension "TexTra Chrome"<br>
 and adds OCR-based text capture feature for Windows.<br>
 https://github.com/NICT-Dev/TexTra-Screen-Reader-for-Chrome<br>
+
+
+PDFなどからテキストをOCRでChromeへ取り込んで翻訳します。<br>
+Extract text from PDFs and other sources <br>
+and import it into Chrome via OCR for translation.<br>
+![](images/ScreenReader.png)<br> 
 
 <br><br><br><br><br><br><br><br>
